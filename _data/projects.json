@@ -1,0 +1,175 @@
+[
+	{
+		"name": "Drill & Destroy",
+		"image": "drill/1.png",
+		"url": "/projects/drilldestroy/",
+		"date": "2024",
+		"tags": ["Single Player","Casual", "Android", "IOS"]
+	},
+	{
+		"name": "The Gate",
+		"image": "/thegate/2.png",
+		"url": "/projects/thegate/",
+		"date": "2023",
+		"tags": ["Multi Player", "Location Based","Casual", "Android", "IOS"]
+	},
+	{
+		"name": "Big Heads",
+		"image": "/bigheads/icon.webp",
+		"url": "/projects/bigheads/",
+		"date": "2021",
+		"tags": ["Multi Player", "Turn Based Strategy","Casual", "Android", "IOS"]
+	},
+
+	{
+		"name": "Idle Blacksmith",
+		"image": "/idleblacksmith/icon.png",
+		"url": "/projects/idleblacksmith/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Exchange Master",
+		"image": "/exchangemaster/icon.png",
+		"url": "/projects/exchangemaster/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Giant Roll",
+		"image": "/giantroll/icon.png",
+		"url": "/projects/giantroll/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Merge Puzzle",
+		"image": "/mergepuzzle/icon.png",
+		"url": "/projects/mergepuzzle/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Potion Master",
+		"image": "/potionmaster/icon.png",
+		"url": "/projects/potionmaster/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Stack and Sort",
+		"image": "/stacksort/icon.png",
+		"url": "/projects/stacksort/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Defence Race",
+		"image": "/defencerace/icon.png",
+		"url": "/projects/defencerace/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Repair Master",
+		"image": "/repairmaster/icon.png",
+		"url": "/projects/repairmaster/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Traffic Quest",
+		"image": "/trafficquest/icon.png",
+		"url": "/projects/trafficquest/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Firework Master",
+		"image": "/firework/icon.png",
+		"url": "/projects/firework/",
+		"date": "2022",
+		"tags": ["Single Player","Hyper Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Octa Merge",
+		"image": "/octamerge/icon.png",
+		"url": "/projects/octamerge/",
+		"date": "2020",
+		"tags": ["Single Player","Hyper Casual", "Puzzle", "Android"]
+	}
+	,
+
+	{
+		"name": "Rush",
+		"image": "/rush/icon.png",
+		"url": "/projects/rush/",
+		"date": "2020",
+		"tags": ["Single Player","Casual", "Puzzle", "Android"]
+	}
+	,
+
+	{
+		"name": "Idle Galaxy",
+		"image": "/idlegalaxy/icon.png",
+		"url": "/projects/idlegalaxy/",
+		"date": "2019",
+		"tags": ["Single Player","Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Finger Rocket",
+		"image": "/fingerrocket/icon.png",
+		"url": "/projects/fingerrocket/",
+		"date": "2018",
+		"tags": ["Single Player","Casual", "Android"]
+	}
+	,
+
+	{
+		"name": "Resistor Calculator",
+		"image": "/rescalculator/icon.png",
+		"url": "/projects/rescalculator/",
+		"date": "2017",
+		"tags": ["Application", "Android"]
+	}
+	,
+
+	{
+		"name": "Tower Up",
+		"image": "/towerup/icon.png",
+		"url": "/projects/towerup/",
+		"date": "2016",
+		"tags": ["Single Player", "Android"]
+	}
+	,
+
+	{
+		"name": "Number Tap",
+		"image": "/numbertap/icon.png",
+		"url": "/projects/numbertap/",
+		"date": "2014",
+		"tags": ["Single Player", "Android"]
+	}
+]
