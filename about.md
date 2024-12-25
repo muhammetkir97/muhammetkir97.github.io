@@ -4,14 +4,9 @@ title: About
 permalink: /about/
 ---
 
-When I was 10 years old (2007), I was curious about how games were made. I started to do research and I came up with software development.
+At the age of 16 (in 2013) I began developing simple games using the Unity game engine.
+During my university years, I worked on various freelance projects, including some international projects. 
 
-At first, I tried HTML and PHP. Then, I started to write my first real programs with C. Later, I was interested in Visual Basic and C#.
+Since November 2020, I have been employed full-time as a mobile gamedeveloper using Unity.
 
-When I was 16 years old (2013), I started to develop simple games with the Unity game engine. In addition to these programming languages, I was also interested in areas that use web applications (JavaScript, SQL).
-
-When I started university (2015), I started programming with microprocessors. Since I worked on various projects in different fields, I was able to adapt to any platform or software language in a short time. I developed projects with PIC, MSP, Arduino and Raspberry Pi. After reaching an adequate level in a short time, I started to work project-based including international projects. You can see my projects on LinkedIn and freelancer.com.
-
-Since I work alone in game development rather than a team, I can also use 2D and 3D drawing programs at medium level.
-
-I have been working full time in professional gaming companies since November 2020.
+Additionally, I have developed XR/AR applications for mobile phones and PCs (with Kinect Sensor).
