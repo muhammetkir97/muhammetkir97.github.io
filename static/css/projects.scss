@@ -28,6 +28,10 @@ $text_size: 13px;
  */
 .project-item.not-show{ display: none; }
 
+.project-item {
+    min-height: 400px;
+}
+
 .project-outer {
 
     vertical-align: top;
