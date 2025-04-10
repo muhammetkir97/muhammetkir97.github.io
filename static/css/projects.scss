@@ -32,7 +32,7 @@ $text_size: 13px;
 
 
 .project-outer {
-    min-height: 400px;
+    
     vertical-align: top;
     .project-headlines {
 
@@ -60,7 +60,7 @@ $text_size: 13px;
     }
 
     .project-footer {
-
+        min-height: 400px;
         clear: both;
         display: inline-block;
         width: 100%;
