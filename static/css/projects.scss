@@ -29,7 +29,9 @@ $text_size: 13px;
 
 .project-item.not-show{ display: none;}
 
-
+.project-item.tr {
+    height: 400px; /* Adjust this value to your desired row height */
+  }
 
 .project-outer {
     
