@@ -27,7 +27,7 @@ $text_size: 13px;
  * //////////////////////////////////
  */
 
-.project-item.not-show{ display: none; }
+.project-item.not-show{ display: none;min-height: 400px }
 
 
 
@@ -60,7 +60,6 @@ $text_size: 13px;
     }
 
     .project-footer {
-        min-height: 200px;
         clear: both;
         display: inline-block;
         width: 100%;
