@@ -31,7 +31,7 @@ $text_size: 13px;
 .project-outer {
 
     vertical-align: top;
-
+    min-height: 60;
     .project-headlines {
 
         @include margins(5px 0);
