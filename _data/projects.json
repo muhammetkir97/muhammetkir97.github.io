@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Multi Traffi Race - Nostalgia",
+		"image": "drill/1.png",
+		"url": "/projects/mtrn/",
+		"date": "2025",
+		"tags": ["Single Player","Multi Player","Mirror","Casual", "Android", "IOS"]
+	},
+	{
 		"name": "Drill & Destroy",
 		"image": "drill/1.png",
 		"url": "/projects/drilldestroy/",
@@ -11,14 +18,14 @@
 		"image": "/thegate/2.png",
 		"url": "/projects/thegate/",
 		"date": "2023",
-		"tags": ["Multi Player", "Location Based","Casual", "Android", "IOS"]
+		"tags": ["Multi Player", "Mirror","Location Based","Casual", "Android", "IOS"]
 	},
 	{
 		"name": "Big Heads",
 		"image": "/bigheads/icon.webp",
 		"url": "/projects/bigheads/",
 		"date": "2021",
-		"tags": ["Multi Player", "Turn Based Strategy","Casual", "Android", "IOS"]
+		"tags": ["Multi Player", "Photon", "Turn Based Strategy","Casual", "Android", "IOS"]
 	},
 
 	{
