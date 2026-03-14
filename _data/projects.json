@@ -1,4 +1,10 @@
-[
+[		{
+		"name": "Infinite Monkey Clicker",
+		"image": "infinitemonkey/icon.png",
+		"url": "/projects/infinitemonkey/",
+		"date": "2025",
+		"tags": ["Single Player","Idle", "PC", "Steam"]
+	},
 	{
 		"name": "Multi Traffi Race - Nostalgia",
 		"image": "mtrn/icon.png",
