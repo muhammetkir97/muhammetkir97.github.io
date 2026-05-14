@@ -1,4 +1,12 @@
-[		{
+[	
+	{
+		"name": "Train Sort Puzzle",
+		"image": "trainsort/icon.png",
+		"url": "/projects/trainsort/",
+		"date": "2026",
+			"tags": ["Single Player","Hyper Casual", "Android"]
+	},
+		{
 		"name": "Pixel Factory",
 		"image": "pixelfactory/icon.png",
 		"url": "/projects/pixelfactory/",
@@ -40,23 +48,8 @@
 		"tags": ["Multi Player", "Photon", "Turn Based Strategy","Casual", "Android", "IOS"]
 	},
 
-	{
-		"name": "Idle Blacksmith",
-		"image": "/idleblacksmith/icon.png",
-		"url": "/projects/idleblacksmith/",
-		"date": "2022",
-		"tags": ["Single Player","Hyper Casual", "Android"]
-	}
-	,
 
-	{
-		"name": "Exchange Master",
-		"image": "/exchangemaster/icon.png",
-		"url": "/projects/exchangemaster/",
-		"date": "2022",
-		"tags": ["Single Player","Hyper Casual", "Android"]
-	}
-	,
+
 
 	{
 		"name": "Giant Roll",
@@ -67,55 +60,11 @@
 	}
 	,
 
-	{
-		"name": "Merge Puzzle",
-		"image": "/mergepuzzle/icon.png",
-		"url": "/projects/mergepuzzle/",
-		"date": "2022",
-		"tags": ["Single Player","Hyper Casual", "Android"]
-	}
-	,
 
 	{
 		"name": "Potion Master",
 		"image": "/potionmaster/icon.png",
 		"url": "/projects/potionmaster/",
-		"date": "2022",
-		"tags": ["Single Player","Hyper Casual", "Android"]
-	}
-	,
-
-	{
-		"name": "Stack and Sort",
-		"image": "/stacksort/icon.png",
-		"url": "/projects/stacksort/",
-		"date": "2022",
-		"tags": ["Single Player","Hyper Casual", "Android"]
-	}
-	,
-
-	{
-		"name": "Defence Race",
-		"image": "/defencerace/icon.png",
-		"url": "/projects/defencerace/",
-		"date": "2022",
-		"tags": ["Single Player","Hyper Casual", "Android"]
-	}
-	,
-
-	{
-		"name": "Repair Master",
-		"image": "/repairmaster/icon.png",
-		"url": "/projects/repairmaster/",
-		"date": "2022",
-		"tags": ["Single Player","Hyper Casual", "Android"]
-	}
-	,
-
-	{
-		"name": "Traffic Quest",
-		"image": "/trafficquest/icon.png",
-		"url": "/projects/trafficquest/",
 		"date": "2022",
 		"tags": ["Single Player","Hyper Casual", "Android"]
 	}
