@@ -1,4 +1,10 @@
 [		{
+		"name": "Pixel Factory",
+		"image": "pixelfactory/icon.png",
+		"url": "/projects/pixelfactory/",
+		"date": "2026",
+		"tags": ["Single Player","Automation","Factory Building", "PC", "Steam"]
+	},{
 		"name": "Infinite Monkey Clicker",
 		"image": "infinitemonkey/icon.png",
 		"url": "/projects/infinitemonkey/",
